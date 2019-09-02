@@ -1,5 +1,5 @@
 #se the path 
-setwd("E:/shinyapp")
+#setwd("E:/shinyapp")
 # getwd()
 
 shinyServer(function(input, output) {
